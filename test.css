@@ -1,0 +1,342 @@
+html {
+  margin: 100;
+  padding: 100;
+}
+
+body {
+  font-family: 'Cardo', serif;
+  font-size: 13pt;
+  background-color: #484d5c;
+  padding: 10px;
+  margin: 0;
+  background-image: url("https://everything-voluntary.com/wp-content/uploads/2017/01/zenrocks.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*Header starts*/
+.thebeginningofthestory {
+  background-color: none;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-top: 15px solid rgb(233, 51, 84);
+  border-radius: 100px;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 43px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 60px;
+  color: #ffce00;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: rgb(112, 173, 43);
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border-radius: 100px;
+}
+
+h2 {
+  font-family: 'Cardo', serif;
+  font-size: 23px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 900;
+  line-height: 25px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #484d5c;
+}
+
+h4 {
+  font-family: 'Cardo', serif;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  text-align: right;
+  color: #484d5c;
+  background-color: #ffce00;
+  padding: 5px;
+  margin-left: 1100px;
+  margin-right: 5px;
+
+}
+
+/*Header ends*/
+/*First Article firstlines starts now*/
+.firstlines {
+  background-color: rgb(112, 173, 43);
+  padding: 10px;
+  border-left: 15px solid rgb(233, 51, 84);
+  border-radius: 100px;
+  width: 500px;
+  height: 200px;
+  margin-left: 60px;
+  margin-bottom: 10px;
+  margin-top: 100px;
+}
+
+.semititre {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  width: 400px;
+  padding: 5px;
+  margin: 5px;
+}
+
+ul {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+}
+
+.img-photo1 {
+  border-right: 15px solid rgb(233, 51, 84);
+  width: 600px;
+  length: 600px;
+  position: relative;
+  top: 1px;
+  bottom: 10px;
+  left: 680px;
+  border-radius: 20px;
+}
+
+/*First Article firstlines ends now*/
+/*Main Article Themiddleofthestory starts Now*/
+.Themiddleofthestory {
+  clear: left;
+}
+
+.img-photo2 {
+  display: inline-block;
+  border-right: 15px solid rgb(233, 51, 84);
+  width: 600px;
+  length: 600px;
+  float: right;
+  margin-top: 200px;
+  border-radius: 20px;
+}
+
+figcaption {
+  font-family: 'Oswald', sans-serif;
+  display: relative;
+  margin-left: 400px;
+}
+
+figcap {
+  ont-family: 'Oswald', sans-serif;
+  display: relative;
+  margin-left: 400px;
+}
+
+.item6 {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  display: block;
+  clear: left;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(112, 173, 43);
+  width: 400px;
+  border-left: 15px solid rgb(233, 51, 84);
+  border-radius: 80px;
+  padding: 20px;
+  margin-left: 60px;
+}
+
+/*Main Article Themiddleofthestory ends Now*/
+/*startend starts now*/
+.item5 {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  display: block;
+  align: right;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(112, 173, 43);
+  width: 400px;
+  border-left: 15px solid rgb(233, 51, 84);
+  border-radius: 80px;
+  padding: 20px;
+  margin-left: 800px;
+}
+
+/*startend ends now*/
+.citation {
+  font-family: 'Cardo', serif;
+  font-size: 24px;
+  text-align: center;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(112, 173, 43);
+  padding: 10px;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-bottom: 100px;
+  margin-top: 100px;
+  border-left: 15px solid rgb(233, 51, 84);
+  border-right: 15px solid rgb(233, 51, 84);
+  border-radius: 100px;
+}
+
+.item7 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  text-align: center;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  text-align: center;
+  background-color: rgb(112, 173, 43);
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border-bottom: 10px solid rgb(233, 51, 84);
+  border-radius: 100px;
+}
+
+.img-photo3 {
+  width: 600px;
+  length: 600px;
+  margin-top: 50px;
+  margin-left: 350px;
+  border-right: 15px solid rgb(233, 51, 84);
+  border-radius: 20px;
+}
+
+.item8 {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  float: left;
+  align: right;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(112, 173, 43);
+  width: 400px;
+  border-left: 15px solid rgb(233, 51, 84);
+  border-radius: 80px;
+  padding: 20px;
+  margin-left: 60px;
+}
+
+.item9 {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  align: right;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(112, 173, 43);
+  width: 400px;
+  border-left: 15px solid rgb(233, 51, 84);
+  border-radius: 80px;
+  padding: 20px;
+  margin-left: 700px;
+}
+
+/*The end of the story ends now*/
+.resume {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  text-align: center;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(112, 173, 43);
+  padding: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border-bottom: 10px solid rgb(233, 51, 84);
+  border-radius: 100px;
+}
+
+/*Tableau starts*/
+table {
+  width: 100%;
+  font-size: 11pt;
+}
+
+table, th, td {
+  border: 2px solid #cecece;
+  border-collapse: collapse;
+  text-align: center;
+  table-layout: fixed;
+}
+
+.tabloid {
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+/*Tableau ends*/
+.item10 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: rgb(233, 51, 84);
+}
+
+.item11 {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  align: right;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(112, 173, 43);
+  width: 400px;
+  border-left: 15px solid rgb(233, 51, 84);
+  border-radius: 80px;
+  padding: 20px;
+  margin-left: 60px
+}
+
+.copyright {
+  font-family: 'Cardo', serif;
+  font-size: 11px;
+  align: right;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+}
+
+.bien {
+  color: rgb(236, 123, 109);
+  background-color: #4ab838;
+  font-style: normal;
+}
+
+.mal {
+  color: #4ab838;
+  background-color: rgb(236, 123, 109);
+  font-style: normal;
+}
