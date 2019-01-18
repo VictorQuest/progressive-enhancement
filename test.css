@@ -65,7 +65,6 @@ h4 {
   padding: 5px;
   margin-left: 1100px;
   margin-right: 5px;
-
 }
 
 /*Header ends*/
@@ -244,6 +243,7 @@ figcap {
 .item9 {
   font-family: 'Cardo', serif;
   font-size: 20px;
+float: left;
   align: right;
   font-style: normal;
   font-variant: normal;
@@ -254,9 +254,40 @@ figcap {
   border-left: 15px solid rgb(233, 51, 84);
   border-radius: 80px;
   padding: 20px;
+  margin-left: 60px;
+}
+.itemm1 {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  align: left;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(243, 247, 37);
+  width: 400px;
+  border-right: 15px solid rgb(233, 51, 84);
+  border-radius: 80px;
+  padding: 20px;
   margin-left: 700px;
 }
+.itemm2 {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+  align: left;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  color: #484d5c;
+  background-color: rgb(243, 247, 37);
+  width: 400px;
+  border-right: 15px solid rgb(233, 51, 84);
+  border-radius: 80px;
+  padding: 20px;
+  margin-left: 700px;
+  marging-top: 5px;
 
+}
 /*The end of the story ends now*/
 .resume {
   font-family: 'Oswald', sans-serif;
@@ -316,7 +347,12 @@ table, th, td {
   border-left: 15px solid rgb(233, 51, 84);
   border-radius: 80px;
   padding: 20px;
-  margin-left: 60px
+  margin-left: 60px;
+}
+
+a.link1 :hover {
+  background-color: #ce0606;
+  cursor: pointer;
 }
 
 .copyright {
